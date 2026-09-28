@@ -1,0 +1,5 @@
+node_modules/
+catalog/import/ceny.csv
+catalog/public/assets/products/*.jpg
+*.log
+.DS_Store
